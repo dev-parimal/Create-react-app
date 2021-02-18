@@ -37,7 +37,7 @@ They are preconfigured and hidden so that you can focus on the code.
 
 Create a project, and you’re good to go.
 
-## Creating an App
+## Creating an App..
 
 **You’ll need to have Node 10.16.0 or later version on your local development machine** (but it’s not required on the server). We recommend using the latest LTS version. You can use [nvm](https://github.com/creationix/nvm#installation) (macOS/Linux) or [nvm-windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows) to switch Node versions between different projects.
 
